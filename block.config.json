@@ -1,0 +1,17 @@
+{
+  "name": "testContainerized",
+  "type": "containerized",
+  "blockId": "7Wal78LezPQOdzEtpEju_",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testContainerized"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
